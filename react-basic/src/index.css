@@ -78,11 +78,10 @@ border-radius : 8px;
 padding: 4px;
 display:inline-block;
 margin: 10px;
-background-color: #e3e3e3
 }
 .navbar {
   height:40px;
-  background-color: antiquewhite;
+  background-color: rgb(177, 200, 235);
   text-align: right;
   padding-right: 30px;
   margin-bottom: 50px;
